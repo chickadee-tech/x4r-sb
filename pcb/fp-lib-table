@@ -3,4 +3,5 @@
   (lib (name xfdfn)(type KiCad)(uri /Users/tannewt/chickadee-projects/shared/kicad/libraries/public/footprints/xfdfn.pretty)(options "")(descr ""))
   (lib (name chickadee)(type KiCad)(uri /Users/tannewt/chickadee-projects/shared/kicad/libraries/private/footprints/chickadee.pretty)(options "")(descr ""))
   (lib (name flightstack)(type KiCad)(uri /Users/tannewt/chickadee-projects/shared/kicad/libraries/public/footprints/flightstack.pretty)(options "")(descr ""))
+  (lib (name ti-gate)(type KiCad)(uri /Users/tannewt/chickadee-projects/shared/kicad/libraries/public/footprints/ti-gate.pretty)(options "")(descr ""))
 )
