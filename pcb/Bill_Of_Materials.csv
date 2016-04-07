@@ -1,5 +1,5 @@
 part name,symbol,size (imp),max current,unit price,units per build,units in stock,order total,Manufacturer ID,source url,datasheet,datasheet2,,,
-80 pin header,PORT_IN1,,,$1.35,1,1,$1.35,DF40C-80DP-0.4V(51),http://www.digikey.com/product-detail/en/DF40C-80DP-0.4V(51)/H11632CT-ND/1969511,N,http://www.hirose.co.jp/cataloge_hp/ed_DF40_20140305.pdf,,Total Base Cost,$9.72
+80 pin header,PORT_IN1,,,$1.35,1,1,$1.35,DF40C-80DP-0.4V(51),http://www.digikey.com/product-detail/en/DF40C-80DP-0.4V(51)/H11632CT-ND/1969511,N,http://www.hirose.co.jp/cataloge_hp/ed_DF40_20140305.pdf,,Total Base Cost,$10.45
 80 pin receptacle (4.0mm),PORT_OUT1,,,$2.67,1,8,$2.67,DF40HC(4.0)-80DS-0.4V(51),http://www.digikey.com/product-detail/en/DF40HC(4.0)-80DS-0.4V(51)/H11919CT-ND/2530301,N,,,,
 AND/OR gate,PORT_ANDOR1,,,$0.25,1,2,$0.25,SN74LVC1G0832DCKR,http://www.digikey.com/product-detail/en/SN74LVC1G0832DCKR/296-18754-1-ND/863884,,http://www.ti.com/lit/ds/symlink/sn74lvc1g0832.pdf,,,
 multifunction gate,"PORT_XOR1, PORT_INV1",,,$0.14,2,6,$0.28,SN74LVC1G58DCKR,http://www.digikey.com/product-detail/en/SN74LVC1G58DCKR/296-15577-1-ND/571153,,http://www.ti.com/lit/ds/symlink/sn74lvc1g58.pdf,,,
@@ -12,5 +12,6 @@ Schottky Diode (Logic Level),D1,"SC-79, SOD-523F",30mA,$0.19,1,4,$0.19,RB751S40,
 n-channel mosfet,Q1,"TO-236-3, SC-59, SOT-23-3",220mA continuous,$0.09,1,59,$0.09,BSS138,http://www.digikey.com/product-detail/en/BSS138/BSS138CT-ND/244294,MF-DSC-SOT233-BSS138,https://www.fairchildsemi.com/datasheets/BS/BSS138.pdf,,,
 R 10k,R1,603,,$0.01,1,979,$0.01,RC0603FR-0710KL,http://www.digikey.com/product-detail/en/RC0603FR-0710KL/311-10.0KHRCT-ND/729827,MF-RES-0603-10K,http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf,,,
 4 XOR,U1,14-VQFN,,$0.39,1,6,$0.39,SN74AHC86RGYR,http://www.digikey.com/product-detail/en/SN74AHC86RGYR/296-13905-1-ND/521431,N,http://www.ti.com/lit/ds/symlink/sn74ahc86.pdf,,,
-4mm Spacer,Off-Board,,,$0.04,1,78,$0.04,908-4MM,http://www.mouser.com/ProductDetail/Bivar/908-4MM/?qs=sGAEpiMZZMtrde5aJd3qw%252bna4uFHzhhuGHvcodzf4xs%3d,N,http://www.bivar.com/Portals/0/Products/d.ashx?f=/Portals/0/products/9XX-XXX.pdf,,,
-1x2 right angle tin straight,Off-Board,,,$0.21,1,4,$0.21,22-28-8020,http://www.digikey.com/product-search/en?keywords=22-28-8020,N,,,,
+4mm Spacer,Off Board,,,$0.04,5,78,$0.19,908-4MM,http://www.mouser.com/ProductDetail/Bivar/908-4MM/?qs=sGAEpiMZZMtrde5aJd3qw%252bna4uFHzhhuGHvcodzf4xs%3d,N,http://www.bivar.com/Portals/0/Products/d.ashx?f=/Portals/0/products/9XX-XXX.pdf,,,
+1x2 right angle tin straight,Off Board,,,$0.21,1,4,$0.21,22-28-8020,http://www.digikey.com/product-search/en?keywords=22-28-8020,N,,,,
+1x12 straight,Off Board,,,$0.58,1,0,$0.58,22-28-4122,,N,,,,
