@@ -58,8 +58,8 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=/Users/tannewt/kicad/libraries/ckd_sandwich
-LibName31=/Users/tannewt/chickadee-projects/shared/kicad/libraries/public/components/ti-gate
+LibName30=../../kicad-libs/components/polystack
+LibName31=../../kicad-libs/components/ti-gate
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
