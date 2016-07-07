@@ -45,7 +45,7 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-Text Notes 7050 7000 0    197  ~ 0
+Text Notes 7450 7550 0    118  ~ 0
 x4r-sb v3
 $Sheet
 S 9300 2050 1200 3400
@@ -571,4 +571,6 @@ F 3 "" H 8050 1500 50  0000 C CNN
 $EndComp
 Wire Wire Line
 	5900 3600 5900 3950
+Text Notes 7050 7050 0    60   ~ 0
+Copyright 2016 Chickadee Tech LLC, <add attributions here>\n\nThis work is licensed under the Creative Commons Attribution 4.0 International License.\nTo view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/\nor send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 $EndSCHEMATC
